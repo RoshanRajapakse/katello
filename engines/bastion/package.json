@@ -20,7 +20,7 @@
     "karma-ng-html2js-preprocessor": "^1.0.0",
     "require-dir": "~1.2.0",
     "patternfly": "4.0.0-alpha.2",
-    "angular-patternfly": "4.0.0-alpha.2"
+    "angular-patternfly": "4.3.0"
   },
   "engines": {
     "node": ">=0.8.0"
